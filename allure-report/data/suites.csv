@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Jan 10 17:26:23 IST 2024","Wed Jan 10 17:27:02 IST 2024","39188","firefox","Frame.spec.js","","","","Frame Example",""
+"passed","Wed Jan 10 17:26:23 IST 2024","Wed Jan 10 17:26:52 IST 2024","29582","firefox","MultipleFrame.spec.js","","","","Frame Example",""
+"passed","Wed Jan 10 17:26:23 IST 2024","Wed Jan 10 17:26:46 IST 2024","23700","chromium","MultipleFrame.spec.js","","","","Frame Example",""
+"passed","Wed Jan 10 17:26:56 IST 2024","Wed Jan 10 17:27:13 IST 2024","17034","webkit","MultipleFrame.spec.js","","","","Frame Example",""
+"failed","Wed Jan 10 17:26:56 IST 2024","Wed Jan 10 17:27:15 IST 2024","19281","webkit","Frame.spec.js","","","","Frame Example",""
+"passed","Wed Jan 10 17:26:23 IST 2024","Wed Jan 10 17:26:48 IST 2024","25565","chromium","Frame.spec.js","","","","Frame Example",""
