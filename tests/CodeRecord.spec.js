@@ -34,7 +34,7 @@ test('Flipkart', async ({ context }) => {
     await expect(newPage.locator('#container')).toContainText('Login to see the items you added previously');
 });
  
-test.only('Flipkart multiple page', async ({ context }) => {
+test('Flipkart multiple page', async ({ context }) => {
     const page = await context.newPage();
     await page.goto('https://www.flipkart.com/');
     await page.getByPlaceholder('Search for Products, Brands').click();

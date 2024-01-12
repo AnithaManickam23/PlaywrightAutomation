@@ -31,7 +31,7 @@ test.skip('Alert Example', async({page})=>
 
  });
 
- test.only('Alert 3', async({page})=>
+ test('Alert 3', async({page})=>
   //test.only
  {
 
