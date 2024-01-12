@@ -32,7 +32,7 @@ test.skip('Alert Example', async({page})=>
  });
 
  test.only('Alert 3', async({page})=>
- 
+  //test.only
  {
 
     await page.goto('http://autopract.com/selenium/alert5/');
